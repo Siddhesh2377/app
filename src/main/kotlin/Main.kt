@@ -1,5 +1,13 @@
 package com.dark
 
 fun main() {
-    println("Hello World!")
+
+    val string = "Hello"
+    var int = 23
+
+    println("$string i am $int")
+
+    int = 24
+
+    println("$string now i am $int")
 }
