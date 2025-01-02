@@ -9,5 +9,7 @@ fun main() {
 
     int = 24
 
-    println("$string now i am $int")
+    println("$string now i am ${int + 12}")
+
+
 }
